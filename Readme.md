@@ -9,5 +9,3 @@ workspace-root
         shared
 
 HLD for workspace code-flow :-
-
-![plot](./arch.png)
