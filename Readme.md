@@ -2,7 +2,6 @@ Single workspace contatining following projects structure -
 
 workspace-root
         apps :- 
-    whatsapp-connector
     packages :- 
         api
         ui
